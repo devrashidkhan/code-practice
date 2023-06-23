@@ -1,0 +1,15 @@
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\MethodExamples\bin\Debug\net6.0\MethodExamples.exe
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\MethodExamples\bin\Debug\net6.0\MethodExamples.deps.json
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\MethodExamples\bin\Debug\net6.0\MethodExamples.runtimeconfig.json
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\MethodExamples\bin\Debug\net6.0\MethodExamples.dll
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\MethodExamples\bin\Debug\net6.0\MethodExamples.pdb
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.csproj.AssemblyReference.cache
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.AssemblyInfoInputs.cache
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.AssemblyInfo.cs
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.csproj.CoreCompileInputs.cache
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.dll
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\MethodExamples\obj\Debug\net6.0\refint\MethodExamples.dll
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.pdb
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.genruntimeconfig.cache
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\MethodExamples\obj\Debug\net6.0\ref\MethodExamples.dll
