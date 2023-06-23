@@ -1,0 +1,15 @@
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\LoopsExamples\bin\Debug\net6.0\LoopsExamples.exe
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\LoopsExamples\bin\Debug\net6.0\LoopsExamples.deps.json
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\LoopsExamples\bin\Debug\net6.0\LoopsExamples.runtimeconfig.json
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\LoopsExamples\bin\Debug\net6.0\LoopsExamples.dll
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\LoopsExamples\bin\Debug\net6.0\LoopsExamples.pdb
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\LoopsExamples\obj\Debug\net6.0\LoopsExamples.csproj.AssemblyReference.cache
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\LoopsExamples\obj\Debug\net6.0\LoopsExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\LoopsExamples\obj\Debug\net6.0\LoopsExamples.AssemblyInfoInputs.cache
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\LoopsExamples\obj\Debug\net6.0\LoopsExamples.AssemblyInfo.cs
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\LoopsExamples\obj\Debug\net6.0\LoopsExamples.csproj.CoreCompileInputs.cache
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\LoopsExamples\obj\Debug\net6.0\LoopsExamples.dll
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\LoopsExamples\obj\Debug\net6.0\refint\LoopsExamples.dll
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\LoopsExamples\obj\Debug\net6.0\LoopsExamples.pdb
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\LoopsExamples\obj\Debug\net6.0\LoopsExamples.genruntimeconfig.cache
+D:\Programming\Practis 2023\code-practice\src\CodeExamples\LoopsExamples\obj\Debug\net6.0\ref\LoopsExamples.dll
